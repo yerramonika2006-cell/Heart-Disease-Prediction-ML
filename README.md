@@ -7,7 +7,8 @@ Heart Disease Prediction using Machine Learning - Pluto Academy AI &amp; ML Inte
 This project was developed as part of the Pluto Academy AI & ML Internship Program.
 
 The objective of this project is to predict whether a patient has heart disease based on medical attributes using Machine Learning algorithms and compare their performance.
-
+If the github file is not opening, do refer to this google colab link:
+https://colab.research.google.com/drive/1zN41c5yDSX7hO64JVrCwSEbtluxXaTMc?usp=sharing
 ---
 
 ## Dataset
